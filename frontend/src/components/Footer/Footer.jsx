@@ -121,7 +121,7 @@ const Footer = () => {
                   Email:
                 </h6>
 
-                <p className="mb-0">irachriskhan@gmail.com</p>
+                <p className="mb-0">c.munezero026@gmail</p>
               </ListGroupItem>
 
               <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
@@ -132,14 +132,14 @@ const Footer = () => {
                   Phone:
                 </h6>
 
-                <p className="mb-0">+256791234567</p>
+                <p className="mb-0">+250790830834</p>
               </ListGroupItem>
             </ListGroup>
           </Col>
 
           <Col lg="12" className="text-center pt-5">
             <p className="copyright">
-              Copyright {year}, designed and developed by Christophe Ir. All
+              Copyright {year}, designed and developed by christella. All
               right reserved.
             </p>
           </Col>
